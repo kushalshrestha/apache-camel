@@ -1,0 +1,97 @@
+## Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+## Maven Wrapper
+.mvn/wrapper/maven-wrapper.properties
+mvnw
+mvnw.cmd
+
+## IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+.loadpath
+
+## VS Code (Optional)
+.vscode/
+
+## Logs
+*.log
+logs/
+*.log.*
+
+## OS Files
+.DS_Store
+Thumbs.db
+
+## Temporary Files
+*.tmp
+*.swp
+*.swo
+*.bak
+
+## Compiled Class Files
+*.class
+
+## Package Files
+*.jar
+*.war
+*.ear
+
+## Spring Boot Specific
+spring.log
+
+## Test Reports
+test-output/
+surefire-reports/
+failsafe-reports/
+
+## Local Environment Files
+.env
+*.local
+*.properties.local
+*.yml.local
+
+## IDE Crash Reports
+.idea_crash_report*
+
+## Node / Frontend (if UI in subproject)
+node_modules/
+dist/
+build/
+
+## Backup Files
+*.orig
+*.rej
+
+## Coverage Tools
+coverage/
+jacoco.exec
+*.ec
+*.exec
+
+## Database
+*.h2.db
+*.mv.db
+*.db
+*.sql
+
+## Others
+bin/
+gen/
+.cache/
